@@ -1,6 +1,6 @@
 # The Carpentries Workbench Template Markdown Lesson
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
+This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. This is a fork from the original template with some CMS specific modifications.
 
 ## Note about lesson life cycle stage
 Although the `config.yaml` states the life cycle stage as pre-alpha, **the template is stable and ready to use**. The life cycle stage is preset to `"pre-alpha"` as this setting is appropriate for new lessons initialised using the template.
@@ -9,12 +9,12 @@ Although the `config.yaml` states the life cycle stage as pre-alpha, **the templ
 
 To use this template to start a new lesson repository, 
 make sure you're logged into Github.   
-Visit https://github.com/carpentries/workbench-template-md/generate
+Visit  https://github.com/awesome-workshop/workbench-template-md/generate 
 and follow the instructions.
 Checking the 'Include all branches' option will save some time waiting for the first website build
 when your new repository is initialised.
 
-If you have any questions, contact [@tobyhodges](https://github.com/tobyhodges)
+If you have any questions for CMS, ask on Mattermost or CMS Talk! If you have any questions for the carpentries developers, contact [@tobyhodges](https://github.com/tobyhodges)
 
 ## Configure a new lesson
 
