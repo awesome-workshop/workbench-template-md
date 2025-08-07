@@ -5,7 +5,7 @@ title: Setup
 FIXME: Setup instructions live in this document. Please specify the tools and
 the data sets the Learner needs to have installed.
 
-## Data Sets
+## Datasets
 
 <!--
 FIXME: place any data you want learners to use in `episodes/data` and then use
