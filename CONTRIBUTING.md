@@ -1,3 +1,10 @@
+## This fork
+
+This template is forked from the [The Carpentries][cp-site] lesson template.
+It has some minor modifications, such as adding the CERN Code of Conduct, and these Contributing instructions.
+You can use this template to build lessons to be used within the CMS experiment. 
+The instructions below are for the contributions to the original template.
+
 ## Contributing
 
 [The Carpentries][cp-site] ([Software Carpentry][swc-site], [Data
